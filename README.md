@@ -20,6 +20,6 @@ alkrinstahack Tool
  latest version pip
  
  python3
-
+ You need Python 3 to run CUPP.
 
 
