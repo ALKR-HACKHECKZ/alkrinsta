@@ -150,7 +150,7 @@ def print_cow():
     print(
         "           \033[1;31m   ||--|| \033[1;m\033[05m*\033[25m\033[1;m      [ Muris Kurgas | j0rgan@remote-exploit.org ]"
     )
-    print(28 * " " + "[ Mebus | https://github.com/Mebus/]\r\n")
+    print(28 * " " + "[ ALKR | https://github.com/ALKR-HACKHECKZ/]\r\n")
 
 
 def version():
