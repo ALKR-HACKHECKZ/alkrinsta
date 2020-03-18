@@ -4,7 +4,6 @@ import os
 import codecs
 
 import socket
-import socks
 
 import asyncio
 from proxybroker import Broker
