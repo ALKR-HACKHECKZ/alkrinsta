@@ -4,7 +4,8 @@ import time
 import os
 import random
 import sys
-
+Instagram şifre kırıcı: 
+Instagram hack: evocan_00
 #Help function
 def Input(text):
 	value = ''
